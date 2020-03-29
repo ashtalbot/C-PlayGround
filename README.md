@@ -1,2 +1,2 @@
-# C-PlayGround
+# C#-PlayGround
 miscellaneous C# reference examples and experiments 
