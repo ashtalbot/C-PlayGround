@@ -1,0 +1,6 @@
+C:\Users\Ash\source\repos\RandomCLass\RandomCLass\bin\Debug\RandomCLass.exe.config
+C:\Users\Ash\source\repos\RandomCLass\RandomCLass\bin\Debug\RandomCLass.exe
+C:\Users\Ash\source\repos\RandomCLass\RandomCLass\bin\Debug\RandomCLass.pdb
+C:\Users\Ash\source\repos\RandomCLass\RandomCLass\obj\Debug\RandomCLass.csprojAssemblyReference.cache
+C:\Users\Ash\source\repos\RandomCLass\RandomCLass\obj\Debug\RandomCLass.exe
+C:\Users\Ash\source\repos\RandomCLass\RandomCLass\obj\Debug\RandomCLass.pdb
