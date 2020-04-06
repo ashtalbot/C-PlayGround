@@ -1,0 +1,6 @@
+C:\Users\Ash\source\repos\Strings\Strings\bin\Debug\Strings.exe.config
+C:\Users\Ash\source\repos\Strings\Strings\bin\Debug\Strings.exe
+C:\Users\Ash\source\repos\Strings\Strings\bin\Debug\Strings.pdb
+C:\Users\Ash\source\repos\Strings\Strings\obj\Debug\Strings.csprojAssemblyReference.cache
+C:\Users\Ash\source\repos\Strings\Strings\obj\Debug\Strings.exe
+C:\Users\Ash\source\repos\Strings\Strings\obj\Debug\Strings.pdb
